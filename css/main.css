@@ -1,0 +1,29 @@
+/* 
+    Created on : Aug 22, 2017, 2:46:14 PM
+    Author     : MLakov
+*/
+
+header{
+    width:100%;
+    padding:20px 0;
+    background:#1e2d3b;
+    color:white;
+}
+
+main{
+    padding:50px 0;
+}
+
+#results{
+    font-size:16px;  
+}
+#results .col-xs-4{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+#results .col-color{
+    cursor:pointer;
+}
+.alert{
+    display:none;
+}
